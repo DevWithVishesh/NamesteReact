@@ -1,0 +1,32 @@
+{
+  "name": "namestereact",
+  "version": "1.0.0",
+  "description": "This is nameste React by vishesh",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevWithVishesh/NamesteReact.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "DevWithVishesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevWithVishesh/NamesteReact/issues"
+  },
+  "homepage": "https://github.com/DevWithVishesh/NamesteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browserslist": [
+    "last 2 versions"
+    ]
+}
